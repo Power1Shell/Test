@@ -4,4 +4,5 @@ write-host "Zeile3 Cloud"
 write-host "Zeile4"
 write-host "Hier ist noch ein 5. Zeile"
 write-host "Hier ist noch ein 6. Zeile"
+write-host "und eine 7."
 
